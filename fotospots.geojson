@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "https://image.flaticon.com/icons/png/512/3/3901.png",
+        "marker-symbol": "attraction",
         "name": "Betonnen bos put",
         "address": "-",
         "description": "Omhoog de duinen in naar links"
@@ -28,7 +28,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "https://image.flaticon.com/icons/png/512/3/3901.png",
+        "marker-symbol": "attraction",
         "name": "Bakenessergrachts bankje",
         "address": "Zakstraat 1",
         "description": "Mooi bankje bij mooie huizen en gracht"
@@ -45,7 +45,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "https://image.flaticon.com/icons/png/512/3/3901.png",
+        "marker-symbol": "attraction",
         "name": "Wisent uitkijkpunt",
         "address": "-",
         "description": "Meertje met soms wisenten, bordjes volgend de duinen in"

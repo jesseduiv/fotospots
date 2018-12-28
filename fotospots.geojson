@@ -1,4 +1,4 @@
-﻿{
+{
   "type": "FeatureCollection",
   "features": [
     {
@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.385613, 
-	  4.598910
+          52.385613,
+	        4.598910
         ]
       },
       "properties": {
@@ -16,14 +16,15 @@
         "address": "-",
         "description": "Omhoog de duinen in naar links"
       }
-    ,	
+    }
+    ,
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.383929, 
- 	  4.639280
+          52.383929,
+ 	        4.639280
         ]
       },
       "properties": {
@@ -32,12 +33,14 @@
         "address": "Zakstraat 1",
         "description": "Mooi bankje bij mooie huizen en gracht"
       }
+    }
+    ,
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.387300, 
+          52.387300,
 	  4.580572
         ]
       },
@@ -46,7 +49,7 @@
         "name": "Wisent uitkijkpunt",
         "address": "-",
         "description": "Meertje met soms wisenten, bordjes volgend de duinen in"
-      }    
+      }
+    }
+  ]
 }
-
-

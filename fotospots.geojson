@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.385613,
-	        4.598910
+	  4.598910
+          52.385613
         ]
       },
       "properties": {
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.383929,
- 	        4.639280
+          4.639280,
+	  52.383929      
         ]
       },
       "properties": {
@@ -40,12 +40,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.387300,
-	  4.580572
+	  4.580572,
+          52.387300
         ]
       },
       "properties": {
-        "marker-symbol": "attraction",
+        "marker-symbol": "laundry",
         "name": "Wisent uitkijkpunt",
         "address": "-",
         "description": "Meertje met soms wisenten, bordjes volgend de duinen in"

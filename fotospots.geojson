@@ -1,0 +1,55 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.385613, 
+	  4.598910
+        ]
+      },
+      "properties": {
+        "marker-symbol": "https://image.flaticon.com/icons/png/512/3/3901.png",
+        "name": "Betonnen bos put",
+        "address": "-",
+        "description": "Omhoog de duinen in naar links"
+      }
+    }
+    ,	
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.383929, 
+ 	  4.639280
+        ]
+      },
+      "properties": {
+        "marker-symbol": "https://image.flaticon.com/icons/png/512/3/3901.png",
+        "name": "Bakenessergrachts bankje",
+        "address": "Zakstraat 1",
+        "description": "Mooi bankje bij mooie huizen en gracht"
+      }
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.387300, 
+	  4.580572
+        ]
+      },
+      "properties": {
+        "marker-symbol": "https://image.flaticon.com/icons/png/512/3/3901.png",
+        "name": "Wisent uitkijkpunt",
+        "address": "-",
+        "description": "Meertje met soms wisenten, bordjes volgend de duinen in"
+      }
+    }
+    
+}
+
+

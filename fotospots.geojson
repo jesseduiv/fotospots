@@ -16,7 +16,6 @@
         "address": "-",
         "description": "Omhoog de duinen in naar links"
       }
-    }
     ,	
     {
       "type": "Feature",
@@ -47,9 +46,7 @@
         "name": "Wisent uitkijkpunt",
         "address": "-",
         "description": "Meertje met soms wisenten, bordjes volgend de duinen in"
-      }
-    }
-    
+      }    
 }
 
 

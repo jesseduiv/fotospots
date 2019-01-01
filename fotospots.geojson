@@ -51,5 +51,38 @@
         "description": "Meertje met soms wisenten, bordjes volgend de duinen in"
       }
     }
+,
+	  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.385613,
+	  4.598910
+        ]
+      },
+      "properties": {
+        "marker-symbol": "laundry",
+        "name": "Lichtfabriek",
+        "address": "-",
+        "description": "Oud industrieel gebied over het hek"
+      }
+    }
+    ,
+        ]
+      },
+      "properties": {
+        "marker-symbol": "laundry",
+        "name": "Betonnen bos put",
+        "address": "-",
+        "description": "Omhoog de duinen in naar links"
+      }
+    }
+    
   ]
 }

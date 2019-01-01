@@ -119,5 +119,73 @@
         "description": "Ouderwetse plantvolle buurt"
       }
     }
+	  ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [     
+	 4.634457,
+	 52.386691
+        ]
+      },
+      "properties": {
+        "marker-symbol": "laundry",
+        "name": "Kenaupark",
+        "address": "-",
+        "description": "Klein parkje met mooie, grote huizen ernaast"
+      }
+    }
+	   ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [     
+	 4.638293,
+	 52.387045
+        ]
+      },
+      "properties": {
+        "marker-symbol": "laundry",
+        "name": "Parkeerplaats Beijneshal",
+        "address": "-",
+        "description": "Verloederde parkeerplaats"
+      }
+    }
+	  ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [      
+	 4.664862,
+ 	 52.405119
+        ]
+      },
+      "properties": {
+        "marker-symbol": "laundry",
+        "name": "Schoteroog",
+        "address": "-",
+        "description": "Groene heuvels aan het water met Windmolens"
+      }
+    }
+	  ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [       
+	 4.599398,
+	 52.377167
+        ]
+      },
+      "properties": {
+        "marker-symbol": "laundry",
+        "name": "Elswout",
+        "address": "-",
+        "description": "Groot park"
+      }
+    }
   ]
 }

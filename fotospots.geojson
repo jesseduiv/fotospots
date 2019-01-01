@@ -65,7 +65,24 @@
         "marker-symbol": "laundry",
         "name": "Lichtfabriek",
         "address": "-",
-        "description": "Oud industriele spot over het hek"
+        "description": "Oude industriele spot over het hek"
+      }
+    }
+	  ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [  
+	 4.647600,
+	 52.385011
+        ]
+      },
+      "properties": {
+        "marker-symbol": "attraction",
+        "name": "Oerkap",
+        "address": "-",
+        "description": "Oude industriele spot"
       }
     }
   ]

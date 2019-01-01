@@ -102,5 +102,22 @@
         "description": "Hofje"
       }
     }
+	  ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [    
+	 4.629727,
+	 52.377493
+        ]
+      },
+      "properties": {
+        "marker-symbol": "laundry",
+        "name": "Vijfhoek",
+        "address": "-",
+        "description": "Ouderwetse plantvolle buurt"
+      }
+    }
   ]
 }

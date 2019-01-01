@@ -52,37 +52,21 @@
       }
     }
 ,
-	  {
+    {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-	{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          52.385613,
-	  4.598910
+        "coordinates": [ 
+	  4.651920,
+	  52.387619
         ]
       },
       "properties": {
         "marker-symbol": "laundry",
         "name": "Lichtfabriek",
         "address": "-",
-        "description": "Oud industrieel gebied over het hek"
+        "description": "Oud industriele spot over het hek"
       }
     }
-    ,
-        ]
-      },
-      "properties": {
-        "marker-symbol": "laundry",
-        "name": "Betonnen bos put",
-        "address": "-",
-        "description": "Omhoog de duinen in naar links"
-      }
-    }
-    
   ]
 }
